@@ -2,7 +2,7 @@
 
 Provided only with the final submission: [Author Name] [Department] [Institution] [Email] [Phone]
 
-**Computational Results Analysis appendix: ** [**sc-trust-appendix-20180127.zip**](https://collegeville.github.io/Collegeville/sc-reproducibility/sc-trust-appendix-20180127.zip)
+**Computational Results Analysis appendix: ** [**sc-trust-appendix-20180127.zip**](https://collegeville.github.io/sc-reproducibility/sc-trust-appendix-20180127.zip)
 
 **Instructions: ** _This form enables authors to provide details about verification and validation efforts that help improve the trustworthiness of their computational results. We are interested in techniques that authors use for pre-execution, peri-execution and post-execution analysis._
 
