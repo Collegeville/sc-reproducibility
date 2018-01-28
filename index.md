@@ -23,7 +23,8 @@ Notes:
 - The availability and quality of an appendix can be used in ranking a paper. In particular, if two papers are of similar quality, the existence and quality of the appendices can be part of the evaluation process.
 - In order to be considered for Best Paper or Best Student Paper, the authors must submit an Artifact Description appendix.
 
-**Computational Results Analysis Appendix:** Each year, SC has a significant number of papers that report results from boutique environments such as leadership computing platforms, prototype hardware for next generation systems, or other environments where reviewers would be unable to replicate the results, and even the authors themselves may be challenged to do so. In this setting, authors can improve trustworthiness of results by other means. The Computational Results Analysis appendix provides authors with an opportunity to discuss how trustworthiness of their results can be increased even when the computational experiments cannot be rerun. Approaches include verification and validation efforts prior to, during and after execution of computational experiments such that metadata about code and results can be used in post-execution analysis to confirm that the experiment executed as expected, with some extra assurance that the results are correct.
+### Trust Appendix
+Each year, SC has a significant number of papers that report results from boutique environments such as leadership computing platforms, prototype hardware for next generation systems, or other environments where reviewers would be unable to replicate the results, and even the authors themselves may be challenged to do so. In this setting, authors can improve trustworthiness of results by other means. The Computational Results Analysis appendix provides authors with an opportunity to discuss how trustworthiness of their results can be increased even when the computational experiments cannot be rerun. Approaches include verification and validation efforts prior to, during and after execution of computational experiments such that metadata about code and results can be used in post-execution analysis to confirm that the experiment executed as expected, with some extra assurance that the results are correct.
 
 Computational Results Analysis Details
 - The Computational Results Analysis initiative is intended to spur community exploration of upstream diagnostics and peri-execution time V&V that will give the authors, reviewers and the community at large greater confidence that published non-replicable results are correct:
@@ -37,9 +38,11 @@ Test the analytics of the problem, e.g., generate a problem with known spectral 
 Engaging the Student Cluster Competition
 We will engage students once again this year in the SC reproducibility initiative. We will continue the use of the Artifact Description Appendices in the Student Cluster Competition, similar as we did for SC16. We also plan to include an effort related to Computational Results Analysis.
 
-Resources
-SC17 Reproducibility Initiative Author FAQ
-SC17 Reproducibility Initiative Reviewer FAQ
-Artifact Description Appendix Template
-Computational Results Analysis Appendix Template 
+### Resources
+
+[SC17 Reproducibility Initiative Author FAQ](AuthorFAQ.md)
+[SC17 Reproducibility Initiative Reviewer FAQ](ReviewerFAQ.md)
+[Artifact Description Appendix Template](DescriptionAppendix.md)
+[Trust Appendix Template](TrustAppendixTemplate.md)
+
 For more information contact: Michael Heroux (maherou@sandia.gov)
