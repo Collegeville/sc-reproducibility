@@ -3,7 +3,7 @@
 
 Provided only with the final submission: [Author Name] [Department] [Institution] [Email] [Phone]
 
-**Artifact Description appendix: ** [**sc17-ae-20170220.zip**](https://collegeville.github.io/Collegeville/sc-reproducibility/sc-description-appendix-20180127.zip)
+**Artifact Description appendix: ** [**sc-description-appendix-20180127.zip**](https://collegeville.github.io/Collegeville/sc-reproducibility/sc-description-appendix-20180127.zip)
 
 **Instructions: ** _This form enables authors to provide information about their computing environment using a common format. Details can be entered in this form, or pointers can be provided to online information. With a few noted exceptions, completion of the form elements is optional, as appropriate for the environment used to produce the computational results. If the paper contains no computational results, the abstract should state this, and the rest of the form omitted._
 
