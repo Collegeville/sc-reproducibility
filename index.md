@@ -40,9 +40,9 @@ We will engage students once again this year in the SC reproducibility initiativ
 
 ### Resources
 
-- [SC17 Reproducibility Initiative Author FAQ](AuthorFAQ.md)
-- [SC17 Reproducibility Initiative Reviewer FAQ](ReviewerFAQ.md)
-- [Artifact Description Appendix Template](DescriptionAppendix.md)
-- [Trust Appendix Template](TrustAppendixTemplate.md)
+- [SC17 Reproducibility Initiative Author FAQ](https://collegeville.github.io/sc-reproducibility/AuthorFAQ.html)
+- [SC17 Reproducibility Initiative Reviewer FAQ](https://collegeville.github.io/sc-reproducibility/ReviewerFAQ.html)
+- [Artifact Description Appendix Template](https://collegeville.github.io/sc-reproducibility/DescriptionAppendix.html)
+- [Trust Appendix Template](https://collegeville.github.io/sc-reproducibility/TrustAppendixTemplate.html)
 
 For more information contact: Michael Heroux <maherou@sandia.gov>
