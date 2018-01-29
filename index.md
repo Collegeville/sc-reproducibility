@@ -1,7 +1,8 @@
 # Reproducibility for the Supercomputing Conference Series
 
 ### Quick Links 
-
+|         Appendix Type                 |  Link to LaTeX source zip file  |
+|---------------------------------------|---------------------------------|
 |  Artifact Description appendix | [sc-description-appendix-20180127.zip](https://collegeville.github.io/sc-reproducibility/sc-description-appendix-20180127.zip) |
 | Computational Results Analysis appendix | [sc-trust-appendix-20180127.zip](https://collegeville.github.io/sc-reproducibility/sc-trust-appendix-20180127.zip)|
 
