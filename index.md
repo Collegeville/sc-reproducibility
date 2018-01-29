@@ -3,8 +3,8 @@
 ### Quick Links 
 |         Appendix Type                 |  Link to LaTeX source zip file  |
 |---------------------------------------|---------------------------------|
-|  Artifact Description appendix | [sc-description-appendix-20180127.zip](https://collegeville.github.io/sc-reproducibility/sc-description-appendix-20180127.zip) |
-| Computational Results Analysis appendix | [sc-trust-appendix-20180127.zip](https://collegeville.github.io/sc-reproducibility/sc-trust-appendix-20180127.zip)|
+|  Description Appendix | [sc-description-appendix-20180127.zip](https://collegeville.github.io/sc-reproducibility/sc-description-appendix-20180127.zip) |
+| Trust Appendix | [sc-trust-appendix-20180127.zip](https://collegeville.github.io/sc-reproducibility/sc-trust-appendix-20180127.zip)|
 
 
 ## Background
@@ -16,12 +16,12 @@ SC17 continued the AD practice, adding the requirement that such an appendix is 
 
 ## Reproducibility at SC18
 
-SC18 will include three efforts for reproducibility:
-1. Technical Papers: The SC18 process will be identical to SC17, except appendices will not have a page limit.
-2. Workshops: Workshop organizers will have the option to request AD appendices from their authors.
-3. Posters: Poster submissions will optionally include an AD appendix.  The AD appendix is required to be considered for best paper or best student paper.
+SC18 will include reproducibility efforts in three technical program elements:
+1. **Technical Papers:** The SC18 process will be identical to SC17, except trust (aka, computational results analysis) appendices will not have a page limit.
+2. **Workshops:** Workshop organizers will have the option to request description appendices from their authors.
+3. **Posters:** Poster submissions will optionally include a description appendix.  The description appendix is required to be considered for best paper or best student paper.
 
-### Artifact Description (AD) Appendix
+### (Artifact) Description Appendix
 
 We will require this appendix in order for a paper to be considered for the Best Paper and Best Student Paper awards. Authors will provide the completed appendix (at most 2 pages), along with their submission.
 Notes:
