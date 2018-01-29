@@ -36,7 +36,7 @@ Each year, SC has a significant number of papers that report results from boutiq
   - Test the analytics of the problem, e.g., generate a problem with known spectral properties and test its behavior.
 
 ### Engaging the Student Cluster Competition
-We will engage students once again this year in the SC reproducibility initiative. We will continue the use of the Artifact Description Appendices in the Student Cluster Competition, similar as we did for SC16. We also plan to include an effort related to the Trust Appendix.
+We will engage students once again this year in the SC reproducibility initiative. We will continue the use of the Artifact Description Appendices in the Student Cluster Competition, similar as we did for SC16 and SC17. We also plan to include an effort related to the Trust Appendix.
 
 ### Resources
 
