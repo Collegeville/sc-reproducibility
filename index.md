@@ -1,5 +1,11 @@
 # Reproducibility for the Supercomputing Conference Series
 
+### Quick Links 
+
+|  Artifact Description appendix | [sc-description-appendix-20180127.zip](https://collegeville.github.io/sc-reproducibility/sc-description-appendix-20180127.zip) |
+| Computational Results Analysis appendix | [sc-trust-appendix-20180127.zip](https://collegeville.github.io/sc-reproducibility/sc-trust-appendix-20180127.zip)|
+
+
 ## Background
 SC16 introduced the first reproducibility efforts for the SC conference series technical papers program. This initial effort followed the strategy of Result and Artifact Review and Badging, and asked for volunteers to submit an _artifact description (AD)_ appendix with their paper that described the details of their software environment and computational experiments to the extent that an independent person could replicate their results.
 
