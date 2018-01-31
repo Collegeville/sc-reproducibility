@@ -13,6 +13,18 @@ About 30 authors volunteered for this effort, 9 submitted appendices, and from a
 
 SC17 continued the AD practice, adding the requirement that such an appendix is necessary for a paper to be considered for best paper or best student paper.  SC17 also introduced the _computational results analysis_ (CRA) appendix, which enables authors to describe approaches used to better ensure the trustworthiness of their computational results.  40% of submitted papers had an AD appendix, and slightly more that half of accepted paper had the AD appendix.  Nine submitted papers had a CRA appendix, six of which were accepted.
 
+## Why Focus on Reproducibility for SC?
+
+Reproducibility is at the heart of the scientific method.  The SC conference series is committed to introducing elements that highlight, enhance and reward participant efforts to improve reproducibility.  Since this we have started the reproducibility initiative, we have observed the following:
+- **Producing an artifact description (AD) appendix improves both effectiveness and efficiency:** 
+  - The AD appendix asks for information (details of the computing platform, software environment,etc.) that should be in any paper with computational results.  
+  - If a paper has no computational results, the appendix only needs to mention that computational results are not part of the paper.  
+  - The AD appendix provides uniform and thorough descriptions of this basic information, making it easier for authors to provide the content, and reviewers and readers to understand it.
+  - The SC review process for appendices can support double-blind requirements that are similar to handling self citations.
+- **Producing a trust appendix provides a novel and important reproducibility approach especially suited to SC authors:**
+ - A significant number of SC contributions are executed in "boutique" environments, where reviewers, readers, and even the authors may have difficulty re-running computational experiment.
+ - The trust appendix enables authors to describe how they verify and validate their computational results, providing increased evidence that their results are trustworthy, and providing best practices descriptions to the community, that be adopted by others who want to improve their own efforts.
+ 
 ## Reproducibility at SC18
 
 SC18 will include reproducibility efforts in three technical program elements:
