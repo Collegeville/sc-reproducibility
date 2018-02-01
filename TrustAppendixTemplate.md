@@ -16,8 +16,6 @@ Provided only with the final submission: [Author Name] [Department] [Institution
 
 – Remove the above section before submitting –
 
-**Outline**
-
 **A. Trust Appendix: [Paper Title]**
 
 **A.1 Abstract**
