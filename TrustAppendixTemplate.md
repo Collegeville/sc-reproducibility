@@ -18,7 +18,7 @@ Provided only with the final submission: [Author Name] [Department] [Institution
 
 **Outline**
 
-**A. Computational Results Analysis: [Paper Title]**
+**A. Trust Appendix: [Paper Title]**
 
 **A.1 Abstract**
 
