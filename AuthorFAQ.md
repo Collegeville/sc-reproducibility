@@ -16,7 +16,7 @@ A. Yes. If you want your paper to be considered for Best Paper or for Best Stude
 
 A. No. The Artifact Evaluation appendix is completely optional.
 
-**Q. Do I need to make my software open source in order to complete the Artifact Description appendix? **
+**Q. Do I need to make my software open source in order to complete the Artifact Description appendix?**
 
 A. No. It is not required that you make any changes to your computing environment in order to complete the appendix. The Artifacts Description appendix is meant to provide information about the computing environment you used to produce your results, reducing barriers for future replication of your results. However, in order to be eligible for the ACM Artifacts Available badge (see below), your software must be downloadable by anyone without restriction.
 
