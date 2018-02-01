@@ -1,6 +1,6 @@
 # SC Reproducibility Author FAQ
 
-SC17 continued efforts started at SC16 to promote reproducibility of scientific results in the SC Technical Papers program. SC16 introduced an _Artifact Description _appendix, an optional appendix for SC16 submissions. SC17 continued with this optional appendix and introduce a second, complementary, and also optional, _Computational Results Analysis_ appendix. SC18 will continue the SC17 efforts, and extend the use of the Artifact Description appendix to the Workshops and Posters events.
+SC18 will continue and expand on SC17 and SC16 reproducibility efforts. SC16 introduced an _Artifact Description_ appendix, an optional appendix for SC16 submissions. SC17 continued with this optional appendix and introduce a second, complementary, and also optional, _Computational Results Analysis_ appendix. SC18 will continue the SC17 efforts, and extend the use of the Artifact Description appendix to the Workshops and Posters events.  For SC18, the Computational Results Analysis appendix is renamed to _Artifact Evaluation_ appendix.
 
 This FAQ addresses questions that authors and reviewers might have about these appendices.
 
@@ -12,7 +12,7 @@ A. No. These appendices are  **not** required. If you do not submit any appendix
 
 A. Yes. If you want your paper to be considered for Best Paper or for Best Student Paper awards, it must be included in the Artifact Description appendix.
 
-**Q. Is the Artifact Evaluation appendix required in order to be considered for the Best Paper or Best Student Paper SC18?**
+**Q. Is the Artifact Evaluation (formerly CRA) appendix required in order to be considered for the Best Paper or Best Student Paper SC18?**
 
 A. No. The Artifact Evaluation appendix is completely optional.
 
