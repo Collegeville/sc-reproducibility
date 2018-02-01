@@ -4,9 +4,9 @@ Provided only with the final submission: [Author Name] [Department] [Institution
 
 **Artifact Evaluation (aka, Computational Results Analysis) Appendix:** [**sc-ae-appendix-20180131.zip**](https://collegeville.github.io/sc-reproducibility/sc-ae-appendix-20180131.zip)
 
-**Instructions: ** _This form enables authors to provide details about verification and validation efforts that help improve the trustworthiness of their computational results. We are interested in techniques that authors use for pre-execution, peri-execution and post-execution analysis._
+**Instructions:** _This form enables authors to provide details about verification and validation efforts that help improve the trustworthiness of their computational results. We are interested in techniques that authors use for pre-execution, peri-execution and post-execution analysis._
 
-**Objective: ** _Use this template to produce a 1 – 2 page appendix for your submission. Describe the approaches you use to improve trustworthiness [1] of your results. Provide an analysis of your results that demonstrate correct execution._
+**Objective:** _Use this template to produce a 1 – 4 page appendix for your submission. Describe the approaches you use to improve trustworthiness [1] of your results. Provide an analysis of your results that demonstrate correct execution._
 
 **Examples:** _ Some types of diagnostics could be:_
 
