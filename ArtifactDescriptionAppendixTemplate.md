@@ -3,13 +3,13 @@
 
 Provided only with the final submission: [Author Name] [Department] [Institution] [Email] [Phone]
 
-**Artifact Description appendix: ** [**sc-ad-appendix-20180201.zip**](https://collegeville.github.io/sc-reproducibility/sc-ad-appendix-20180201.zip)
+**Artifact Description appendix:** [**sc-ad-appendix-20180201.zip**](https://collegeville.github.io/sc-reproducibility/sc-ad-appendix-20180201.zip)
 
 **Instructions:** _This form enables authors to provide information about their computing environment using a common format. Details can be entered in this form, or pointers can be provided to online information. With a few noted exceptions, completion of the form elements is optional, as appropriate for the environment used to produce the computational results. If the paper contains no computational results, the abstract should state this, and the rest of the form omitted._
 
 **Objective:** _Use this template to produce a 1 – 2 page appendix for your submission._
 
-**Resource:** _While not an identical type of form, the _[_Artifact Evaluation for Computer Systems Research_](http://ctuning.org/ae/submission-20160509.html)_ Guide does provide useful guidance for providing the information requested below._
+**Resource:** _While not an identical type of form, the [Artifact Evaluation for Computer Systems Research](http://ctuning.org/ae/submission-20160509.html) Guide does provide useful guidance for providing the information requested below._
 
 **Examples of Artifact Descriptions:**
 
