@@ -2,7 +2,7 @@
 
 Prior to reading this document, please review the  [Author FAQ](https://collegeville.github.io/sc-reproducibility/AuthorFAQ.html)
 
-**Q. What are my responsibilities when reviewing a paper that has an Artifacts Description appendix, a Computational Results Analysis appendix, or both?**
+**Q. What are my responsibilities when reviewing a paper that has an Artifact Description appendix, an Artifact Evaluation appendix, or both?**
 
 A. Reviewers are expected to read any appendix that is submitted with a paper. The information in these appendices is often included in any well-written paper. By collecting this information in a uniform way, we hope that the review process will be more effective without requiring a significant new burden on reviewers.
 
