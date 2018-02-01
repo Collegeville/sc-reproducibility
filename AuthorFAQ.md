@@ -32,7 +32,7 @@ A. The Artifact Description appendix is simply a description of the computing en
 
 A. A thorough artifact evaluation effort is an effective way to increase the trustworthiness of computational results from special "boutique" platforms. Leadership computing platforms, novel testbeds, and experimental computing environments are of keen interest to the supercomputing community. At the same time, these platforms are often volatile and possess a higher risk of incorrect behavior.
 
-Furthermore, access to these systems is typically limited, making it nearly impossible for most reviewers to independently compute author results. Finally, the volatility of these platforms often make it hard for the authors themselves to recompute their own results in the future, since changes in the environment (compilers, libraries, components, etc.) impact computational results, and there is no way to revert to previous system states.
+Furthermore, access to these systems is typically limited, making it nearly impossible for most reviewers to independently compute author results. Finally, the volatility of these platforms often makes it hard for the authors themselves to recompute their own results in the future, since changes in the environment (compilers, libraries, components, etc.) impact computational results, and there is no way to revert to previous system states.
 
 For all of these reasons, the introduction of upstream setup testing, peri-execution time testing and post-execution analysis can improve confidence that computational results from these special platforms are correct.
 
