@@ -3,7 +3,7 @@
 
 Provided only with the final submission: [Author Name] [Department] [Institution] [Email] [Phone]
 
-**Artifact Description appendix: ** [**sc-description-appendix-20180127.zip**](https://collegeville.github.io/sc-reproducibility/sc-description-appendix-20180127.zip)
+**Artifact Description appendix: ** [**sc-description-appendix-20180131.zip**](https://collegeville.github.io/sc-reproducibility/sc-description-appendix-20180131.zip)
 
 **Instructions: ** _This form enables authors to provide information about their computing environment using a common format. Details can be entered in this form, or pointers can be provided to online information. With a few noted exceptions, completion of the form elements is optional, as appropriate for the environment used to produce the computational results. If the paper contains no computational results, the abstract should state this, and the rest of the form omitted._
 
@@ -39,15 +39,14 @@ All papers display the &quot;Artifacts Available&quot; badge.
 ](http://dl.acm.org/citation.cfm?id=3014950&amp;CFID=897711039&amp;CFTOKEN=61106140)
 - Preeti Malakar, Venkatram Vishwanath, Christopher Knight, Todd Munson and Michael E. Papka:  **&quot;Optimal Execution of Co-analysis for Large-scale Molecular Dynamics Simulations&quot;**   [http://dl.acm.org/citation.cfm?id=3014985&amp;CFID=897711039&amp;CFTOKEN=61106140](http://dl.acm.org/citation.cfm?id=3014985&amp;CFID=897711039&amp;CFTOKEN=61106140)
 
-– Remove this section before submitting –
+– Remove the above section before submitting –
 
-**Outline**
 
-**A. Artifact Description: [Paper Title]**
+**A. Artifact Description Appendix: [Paper Title]**
 _Submission and reviewing guidelines and methodology:_
 
 **A.1 Abstract**
-_Obligatory for all papers for which this appendix is submitted, even if the paper contains no computational results._
+_Obligatory for all papers for which this appendix is submitted, even if the paper contains no computational results.  If no results are present in the paper, you can state **“This paper contains no computational results.”**_
 
 **A.2 Description**
 
