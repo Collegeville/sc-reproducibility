@@ -13,7 +13,7 @@ About 30 authors volunteered for this effort, 9 submitted appendices, and from a
 
 SC17 continued the AD practice, adding the requirement that such an appendix is necessary for a paper to be considered for best paper or best student paper.  SC17 also introduced the _computational results analysis_ (CRA) appendix, which enables authors to describe approaches used to better ensure the trustworthiness of their computational results.  40% of submitted papers had an AD appendix, and slightly more that half of accepted paper had the AD appendix.  Nine submitted papers had a CRA appendix, six of which were accepted.
 
-SC18 will continue the efforts of SC17, and extend the optional use of the AD appendix to the Workshops and Posters elements of the technical program.  The AD appendix will remain optional, but required for best paper and best student paper.  The CRA appendix has been renamed as the _Artifact Evaluation_ appendix and will continue to be optional.
+SC18 will continue the efforts of SC17, and extend the optional use of the AD appendix to the Workshops and Posters elements of the technical program.  The AD appendix will remain optional for the technical papers program, and remain required for best paper and best student paper.  The CRA appendix has been renamed as the _Artifact Evaluation_ appendix and will continue to be optional.
 
 ## Why Focus on Reproducibility for SC?
 
