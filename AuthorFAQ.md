@@ -38,7 +38,7 @@ For all of these reasons, the introduction of upstream setup testing, peri-execu
 
 **Q. The SC18 review process is double blind. Won't the information in these appendices reveal author identities?**
 
-A. It is possible that the information provided in the appendix could provide reviewers with some evidence of author identities, but it is not necessarily more revealing than self-citations in the bibliography. Listing the software you use does not necessarily mean you develop the software. As with self-references in your text, you should refer to software from a third-person perspective. Finally, if you have any unaddressed concerns about completing appendices for SC18, please contact Mike Heroux ( [maherou@sandia.gov](mailto:maherou@sandia.gov)).
+A. It is possible that the information provided in the appendix could provide reviewers with some evidence of author identities, but it is not necessarily more revealing than self-citations in the bibliography. Listing the software you use does not necessarily mean you develop the software. As with self-references in your text, you should refer to software from a third-person perspective. If you think any particular piece of information requested in an appendix could unambiguously identify you, you can state **"Information will be provided if and when the paper is accepted."** Finally, if you have any unaddressed concerns about completing appendices for SC18, please contact Mike Heroux ( [maherou@sandia.gov](mailto:maherou@sandia.gov)).
 
 **Q. The Artifacts Available badge description in the ACM website states that "Personal web pages are not acceptable for this purpose". Does SC18 provide a permanent repository as I don't have free access to any repositories beyond my personal website?**
 
