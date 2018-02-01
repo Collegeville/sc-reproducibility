@@ -50,7 +50,7 @@ Each year, SC has a significant number of papers that report results from boutiq
 #### Artifact Evaluation Appendix Details
 - The Artifact Evaluation Appendix initiative is intended to spur community exploration of upstream diagnostics and peri-execution time V&V that will give the authors, reviewers and the community at large greater confidence that published non-replicable results are correct.
   - Authors can volunteer to produce an appendix describing their approach and results.
-  - We will select a few of these papers and use them in the student cluster competition for students to study and exercise as a part of the competition.
+  - We hope to select a few of these papers and use them in the student cluster competition for students to study and exercise as a part of the competition.
 - Some types of additional diagnostics could be:
   - Validation of the timers (time something with a known execution time, determine the precision and statistical variability of the timer).
   - Confirm results for a manufactured solution.
