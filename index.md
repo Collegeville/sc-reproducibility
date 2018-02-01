@@ -2,8 +2,8 @@
 
 ### Quick Links to LaTeX source ZIP files
 
-- Artifact Description Appendix: [sc-ad-appendix-20180131.zip](https://collegeville.github.io/sc-reproducibility/sc-ad-appendix-20180131.zip)
-- Artifact Evaluation Appendix: [sc-ae-appendix-20180131.zip](https://collegeville.github.io/sc-reproducibility/sc-ae-appendix-20180131.zip)
+- Artifact Description Appendix: [sc-ad-appendix-20180201.zip](https://collegeville.github.io/sc-reproducibility/sc-ad-appendix-20180201.zip)
+- Artifact Evaluation Appendix: [sc-ae-appendix-20180201.zip](https://collegeville.github.io/sc-reproducibility/sc-ae-appendix-20180201.zip)
 
 
 ## Background
