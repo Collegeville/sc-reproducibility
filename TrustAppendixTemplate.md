@@ -6,7 +6,7 @@ Provided only with the final submission: [Author Name] [Department] [Institution
 
 **Instructions: ** _This form enables authors to provide details about verification and validation efforts that help improve the trustworthiness of their computational results. We are interested in techniques that authors use for pre-execution, peri-execution and post-execution analysis._
 
-**Objective: ** _Use this template to produce a 1 – 2 page appendix for your submission. Describe the approaches you use to improve trustworthiness_ [**[1]**](http://sc17.supercomputing.org/program/technical-papers/reproducibility-initiatives-for-technical-papers/computational-results-analysis-paper-title/#_ftn1)_ of your results. Provide an analysis of your results that demonstrate correct execution._
+**Objective: ** _Use this template to produce a 1 – 2 page appendix for your submission. Describe the approaches you use to improve trustworthiness [1] of your results. Provide an analysis of your results that demonstrate correct execution._
 
 **Examples:** _ Some types of diagnostics could be:_
 
@@ -14,12 +14,11 @@ Provided only with the final submission: [Author Name] [Department] [Institution
 - _Confirm results for a manufactured solution, executed before or during the production simulation._
 - _Test analytics of the problem, e.g., generate a problem with known spectral properties and test its behavior._
 
-– Remove this section before submitting –
+– Remove the above section before submitting –
 
 **Outline**
 
 **A. Computational Results Analysis: [Paper Title]**
-Submission guidelines:
 
 **A.1 Abstract**
 
@@ -38,4 +37,4 @@ Submission guidelines:
 
 _Optional comments._
 
-[[1]](http://sc17.supercomputing.org/program/technical-papers/reproducibility-initiatives-for-technical-papers/computational-results-analysis-paper-title/#_ftnref1) We use the term trustworthiness to indicate a broad category of ways that can be used to demonstrate that your software is behaving the way you intend it to behave. We expect that most of the approaches you will use are focused on _verification, _ensuring that your software computes the answer you expect it to compute (doing things right). But we leave open the possibility that you also do some validation testing (doing the right thing).
+[1] We use the term trustworthiness to indicate a broad category of ways that can be used to demonstrate that your software is behaving the way you intend it to behave. We expect that most of the approaches you will use are focused on _verification, _ensuring that your software computes the answer you expect it to compute (doing things right). But we leave open the possibility that you also do some validation testing (doing the right thing).
