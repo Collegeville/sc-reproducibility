@@ -37,4 +37,5 @@ Provided only with the final submission: [Author Name] [Department] [Institution
 
 _Optional comments._
 
+-----------------------
 [1] We use the term trustworthiness to indicate a broad category of ways that can be used to demonstrate that your software is behaving the way you intend it to behave. We expect that most of the approaches you will use are focused on _verification, _ensuring that your software computes the answer you expect it to compute (doing things right). But we leave open the possibility that you also do some validation testing (doing the right thing).
