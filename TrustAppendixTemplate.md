@@ -1,8 +1,8 @@
-# Trust Appendix: [Paper Title]
+# Artifact Evaluation Appendix: [Paper Title]
 
 Provided only with the final submission: [Author Name] [Department] [Institution] [Email] [Phone]
 
-**Trust (aka, Computational Results Analysis) Appendix:** [**sc-trust-appendix-20180131.zip**](https://collegeville.github.io/sc-reproducibility/sc-trust-appendix-20180131.zip)
+**Artifact Evaluation (aka, Computational Results Analysis) Appendix:** [**sc-ae-appendix-20180131.zip**](https://collegeville.github.io/sc-reproducibility/sc-ae-appendix-20180131.zip)
 
 **Instructions: ** _This form enables authors to provide details about verification and validation efforts that help improve the trustworthiness of their computational results. We are interested in techniques that authors use for pre-execution, peri-execution and post-execution analysis._
 
@@ -16,7 +16,7 @@ Provided only with the final submission: [Author Name] [Department] [Institution
 
 – Remove the above section before submitting –
 
-**A. Trust Appendix: [Paper Title]**
+**A. Artifact Evaluation Appendix: [Paper Title]**
 
 **A.1 Abstract**
 
