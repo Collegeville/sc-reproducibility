@@ -24,8 +24,8 @@ Reproducibility is at the heart of the scientific method.  The SC conference ser
   - The AD appendix provides uniform and thorough descriptions of this basic information, making it easier for authors to provide the content, and reviewers and readers to understand it.
   - The SC review process for appendices can support double-blind requirements that are similar to handling self citations.
 - **Producing an artifact evaluation appendix provides a novel and important reproducibility approach especially suited to SC authors:**
- - A significant number of SC contributions are executed in "boutique" environments, where reviewers, readers, and even the authors may have difficulty re-running computational experiment.
- - The artifact evaluation appendix enables authors to describe how they verify and validate their computational results, providing increased evidence that their results are trustworthy, and providing best practices descriptions to the community, that be adopted by others who want to improve their own efforts.
+  - A significant number of SC contributions are executed in "boutique" environments, where reviewers, readers, and even the authors may have difficulty re-running computational experiment.
+  - The artifact evaluation appendix enables authors to describe how they verify and validate their computational results, providing increased evidence that their results are trustworthy, and providing best practices descriptions to the community, that be adopted by others who want to improve their own efforts.
  
 ## Reproducibility at SC18
 
