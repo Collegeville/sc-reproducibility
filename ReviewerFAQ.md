@@ -1,6 +1,6 @@
 # SC Reproducibility Reviewer FAQ
 
-Prior to reading this document, please review the  [Author FAQ](http://sc17.supercomputing.org/submitters/technical-papers/reproducibility-initiatives-for-technical-papers/reproducibility-initiative-author-faq/)
+Prior to reading this document, please review the  [Author FAQ](https://collegeville.github.io/sc-reproducibility/AuthorFAQ.html)
 
 **Q. What are my responsibilities when reviewing a paper that has an Artifacts Description appendix, a Computational Results Analysis appendix, or both?**
 
@@ -10,9 +10,9 @@ A. Reviewers are expected to read any appendix that is submitted with a paper. T
 
 A. Confirming links in an appendix are not required of every reviewer. We are asking for volunteers from the review committee who would be willing to validate links provided in appendices. Link validation is required as part of the ACM Artifacts Available badging process.
 
-**Q. Must I evaluate the code and results associated with a Computational Results Analysis appendix?**
+**Q. Must I evaluate the code and results associated with an Artifact Evaluation appendix?**
 
-A. Code and results evaluations associated with a Computational Results Analysis appendix are not required of every reviewer. We are asking for volunteers from the review committee who would be willing to evaluate code and results associated with these appendices. Code and results evaluations are required as part of the ACM Artifacts Evaluation badging process.
+A. Code and results evaluations associated with an Artifact Evaluation appendix are not required of every reviewer. We are asking for volunteers from the review committee who would be willing to evaluate code and results associated with these appendices. Code and results evaluations are required as part of the ACM Artifacts Evaluation badging process.
 
 **Q. How may I use appendices as part of the review process?**
 
