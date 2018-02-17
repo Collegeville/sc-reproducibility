@@ -10,7 +10,7 @@ Find answers to common questions that may arise during the effort to prepare and
 
 [ACM Artifacts Available and Artifacts Evaluated Badges](#badges)
 
-## AD and AE Appendix Requirements <a name="requirements"></a>
+## <a name="requirements"></a>AD and AE Appendix Requirements 
 
 **Q. Are the artifact description and artifact evaluation appendices required in order to submit to SC18?**
 
@@ -28,7 +28,7 @@ A. No. The AE appendix is completely optional.
 
 A. No. You are not required to make any changes to your computing environment in order to complete the appendix. The AD appendix is meant to provide information about the computing environment you used to produce your results, thereby reducing barriers for future replication of your results. However, in order to be eligible for the ACM Artifacts Available badge (see below), your software must be downloadable by anyone without restriction.
 
-## Review Process <a name="review"></a>
+## <a name="review"></a>Review Process 
 
 **Q. Who will review my appendices?**
 
@@ -38,7 +38,7 @@ A. The AD and/or AE appendices will be submitted at the same time as your paper 
 
 A. It is possible that information provided in an appendix could reveal some information about an author’s identity, but this is most likely no more revealing than self-citations in the bibliography. Listing the software you used does not necessarily mean you developed the software. As with self-references in your text, you should refer to software from a third-person perspective. If you think any particular piece of information requested in an appendix could unambiguously identify you, you may state: “Information will be provided if and when the paper is accepted.” Finally, if you have any unaddressed concerns about completing appendices for SC18, please contact us: maherou@sandia.gov.
 
-## Impact of AD and AE Appendices <a name="impact"></a>
+## <a name="impact"></a>Impact of AD and AE Appendices 
 
 **Q. Does the artifact description appendix really impact scientific reproducibility?**
 
@@ -52,7 +52,7 @@ Furthermore, access to these systems is typically limited, making it nearly impo
 
 For all of these reasons, the introduction of upstream setup testing, peri-execution time testing and post-execution analysis can improve confidence that computational results from these special platforms are correct.
 
-## ACM Artifacts Available and Artifacts Evaluated Badges <a name="badges"></a>
+## <a name="badges"></a>ACM Artifacts Available and Artifacts Evaluated Badges 
 
 **Q. The Artifacts Available badge description on the ACM website states: “Personal web pages are not acceptable for this purpose.” I do not have free access to any repositories aside from my personal website. Does SC provide a permanent repository?**
 
