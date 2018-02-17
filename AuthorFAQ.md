@@ -1,6 +1,6 @@
 # SC Reproducibility Author FAQ
 
-SC18 will continue and expand on SC17 and SC16 reproducibility efforts. SC16 introduced an _Artifact Description_ appendix, an optional appendix for SC16 submissions. SC17 continued with this optional appendix and introduce a second, complementary, and also optional, _Computational Results Analysis_ appendix. SC18 will continue the SC17 efforts, and extend the use of the Artifact Description appendix to the Workshops and Posters events.  For SC18, the Computational Results Analysis appendix is renamed to _Artifact Evaluation_ appendix.
+Find answers to common questions that may arise during the effort to prepare and submit an AD or AE appendix to the SC Conference. If your question is not addressed here, please [contact us](maherou@sandia.gov).
 
 This FAQ addresses questions that authors and reviewers might have about these appendices.
 
