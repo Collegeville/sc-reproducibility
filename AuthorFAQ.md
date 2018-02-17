@@ -1,6 +1,6 @@
 # SC Reproducibility Author FAQ
 
-Find answers to common questions that may arise during the effort to prepare and submit an AD or AE appendix to the SC Conference. If your question is not addressed here, please [contact us](maherou@sandia.gov).
+Find answers to common questions that may arise during the effort to prepare and submit an AD or AE appendix to the SC Conference. If your question is not addressed here, please contact us: maherou@sandia.gov.
 
 This FAQ addresses questions that authors and reviewers might have about these appendices.
 
