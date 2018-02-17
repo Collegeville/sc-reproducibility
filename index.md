@@ -1,63 +1,53 @@
-# Reproducibility for the Supercomputing Conference Series
-
-### Quick Links to LaTeX source ZIP files
-
-- Artifact Description Appendix: [sc-ad-appendix-20180201.zip](https://collegeville.github.io/sc-reproducibility/sc-ad-appendix-20180201.zip)
-- Artifact Evaluation Appendix: [sc-ae-appendix-20180201.zip](https://collegeville.github.io/sc-reproducibility/sc-ae-appendix-20180201.zip)
-
+# Reproducibility for the SC Conference Series
 
 ## Background
-SC16 introduced the first reproducibility efforts for the SC conference series technical papers program. This initial effort followed the strategy of Result and Artifact Review and Badging, and asked for volunteers to submit an _artifact description (AD)_ appendix with their paper that described the details of their software environment and computational experiments to the extent that an independent person could replicate their results.
+The SC Conference Series introduced  the reproducibility initiative in the 2016 Technical Papers program, with a strategy of Result and Artifact Review and Badging. Authors were asked to voluntarily submit an _artifact description (AD)_ appendix along with their paper, describing the details of their software environments and computational experiments to the extent that an independent person could replicate their results.
 
-About 30 authors volunteered for this effort, 9 submitted appendices, and from among those, 3 papers were chosen as finalists and one will be used in the Student Cluster Competition for 2017. All papers that completed the appendix had it combined with their final paper in a single document, and had the ACM “Artifacts Available” badge added to their article, available in the ACM Digital library.
+About 30 authors volunteered for this effort. Nine submitted AD appendices, three among them were chosen as finalists, and one was used in the SC17 Student Cluster Competition. All papers that included an AD appendix were given an ACM Artifacts Available badge, and the papers with their appendices are archived in the ACM Digital Library.
 
-SC17 continued the AD practice, adding the requirement that such an appendix is necessary for a paper to be considered for best paper or best student paper.  SC17 also introduced the _computational results analysis_ (CRA) appendix, which enables authors to describe approaches used to better ensure the trustworthiness of their computational results.  40% of submitted papers had an AD appendix, and slightly more that half of accepted paper had the AD appendix.  Nine submitted papers had a CRA appendix, six of which were accepted.
+The reproducibility initiative was continued at SC17, with the added requirement that an AD appendix be included in order for a paper to be considered for Best Paper or Best Student Paper. SC17 also introduced the _computational results analysis (CRA)_ appendix, which enables authors to describe approaches used to better ensure the trustworthiness of their computational results. 40% of submitted papers and more than 50% of accepted papers included an AD appendix. Nine submitted papers included a CRA appendix, six of which were accepted.
 
-SC18 will continue the efforts of SC17, and extend the optional use of the AD appendix to the Workshops and Posters elements of the technical program.  The AD appendix will remain optional for the technical papers program, and remain required for best paper and best student paper.  The CRA appendix has been renamed as the _Artifact Evaluation_ appendix and will continue to be optional.
+SC18 will continue these efforts, extending the option of submitting an AD appendix to the Workshops and Posters programs. Inclusion of an AD appendix will remain optional for Papers, and will remain a requirement for Best Paper and Best Student Paper selections. The CRA appendix has been renamed the _artifact evaluation (AE)_ appendix and will continue to be optional.
 
 ## Why Focus on Reproducibility for SC?
 
-Reproducibility is at the heart of the scientific method.  The SC conference series is committed to introducing elements that highlight, enhance and reward participant efforts to improve reproducibility.  Since we started the SC reproducibility initiative, we have observed the following:
-- **Producing an artifact description (AD) appendix improves both effectiveness and efficiency:** 
-  - The AD appendix asks for information (details of the computing platform, software environment,etc.) that should be in any paper with computational results.  
+Reproducibility is at the heart of the scientific method. The SC Conference Series is committed to introducing elements that highlight, enhance, and reward participant efforts to improve reproducibility. Since we started the SC reproducibility initiative, we have observed the following:
+- **Producing an AD appendix improves both effectiveness and efficiency:** 
+  - The AD appendix provides information (details of the computing platform, software environment,etc.) that should be in any paper with computational results.  
   - If a paper has no computational results, the appendix only needs to mention that computational results are not part of the paper.  
   - The AD appendix provides uniform and thorough descriptions of this basic information, making it easier for authors to provide the content, and reviewers and readers to understand it.
   - The SC review process for appendices can support double-blind requirements that are similar to handling self citations.
-- **Producing an artifact evaluation appendix provides a novel and important reproducibility approach especially suited to SC authors:**
-  - A significant number of SC contributions are executed in "boutique" environments, where reviewers, readers, and even the authors may have difficulty re-running computational experiment.
-  - The artifact evaluation appendix enables authors to describe how they verify and validate their computational results, providing increased evidence that their results are trustworthy, and providing best practices descriptions to the community that can be adopted by others who want to improve their own efforts.
+- **Provision of an AE appendix is an important approach especially suited to SC authors:**
+  - A significant number of SC contributions are executed in "boutique" environments, where reviewers, readers, and even the authors themselves may have difficulty re-running the computational experiment.
+  - The AE appendix enables authors to describe how they verify and validate their computational results, providing increased evidence that their results are trustworthy, and providing best practices descriptions to the community that can be adopted by others who want to improve their own efforts.
  
 ## Reproducibility at SC18
 
-SC18 will include reproducibility efforts in three technical program elements:
-1. **Technical Papers:** The SC18 process will be identical to SC17, except that the Artifact Evaluation (aka, computational results analysis) appendices will have a 1 - 4 page limit.
+The reproducibility initiative will be active in three programs at SC18:
+1. **Papers:** The SC18 process will be identical to SC17, except that the artifact evaluation appendices will be limited to four pages. An artifact description appendix (up to two pages) will be required for consideration for Best Paper and Best Student Paper.
 2. **Workshops:** Workshop organizers will have the option to request artifact description appendices from their authors.
-3. **Posters:** Poster submissions will optionally include an artifact description appendix.  The artifact description appendix is required to be considered for best paper or best student paper.
+3. **Posters:** Poster submissions will have the option to include an artifact description appendix. An AD appendix will be required for consideration for Best Poster or Best Student Poster.
 
 ### Artifact Description Appendix
 
-We will require this appendix in order for a paper to be considered for the Best Paper and Best Student Paper awards in the technical paper program. Authors will provide the completed appendix (at most 2 pages), along with their submission.
-
-Notes:
-
-- A paper cannot be disqualified based on information provided or not provided in this appendix, nor if the appendix is not available.
-- The availability and quality of an appendix can be used in ranking a paper. In particular, if two papers are of similar quality, the existence and quality of the appendices can be part of the evaluation process.
+- A submission cannot be disqualified based on information provided or not provided in this appendix, nor if no appendix is provided.
+- The inclusion and quality of an appendix may be considered in evaluating a submission, particularly in ranking two submissions of similar quality.
 - In order to be considered for Best Paper or Best Student Paper, the authors must submit an Artifact Description appendix.
 
-### Artifact Evaluation Appendix (formerly known as the Computational Results Analysis Appendix)
-Each year, SC has a significant number of papers that report results from boutique environments such as leadership computing platforms, prototype hardware for next generation systems, or other environments where reviewers would be unable to replicate the results, and even the authors themselves may be challenged to do so. In this setting, authors can improve trustworthiness of results by other means. The Artifact Evaluation Appendix provides authors with an opportunity to discuss how trustworthiness of their results can be increased even when the computational experiments cannot be rerun. Approaches include verification and validation efforts prior to, during and after execution of computational experiments such that metadata about code and results can be used in post-execution analysis to confirm that the experiment executed as expected, with some extra assurance that the results are correct.
+### Artifact Evaluation Appendix
+Each year, SC receives a significant number of submissions reporting results from boutique environments such as leadership computing platforms, prototype hardware for next generation systems, or other environments where reviewers would be unable to replicate the results – and even the authors themselves may be challenged to do so. The AE appendix gives authors the opportunity to discuss how the trustworthiness of their results can be increased even when the computational experiments cannot be rerun. Approaches include verification and validation efforts prior to, during, and after execution of computational experiments such that metadata about code and results can be used in post-execution analysis to confirm that the experiment executed as expected, with some extra assurance that the results are correct.
 
 #### Artifact Evaluation Appendix Details
-- The Artifact Evaluation Appendix initiative is intended to spur community exploration of upstream diagnostics and peri-execution time V&V that will give the authors, reviewers and the community at large greater confidence that published non-replicable results are correct.
+- The AE Appendix initiative is intended to spur community exploration of upstream diagnostics and peri-execution time verification and validation that will give the authors, reviewers, and the community at large greater confidence that published non-replicable results are correct.
   - Authors can volunteer to produce an appendix describing their approach and results.
-  - We hope to select a few of these papers and use them in the student cluster competition for students to study and exercise as a part of the competition.
+  - We hope to use a selection of these submissions in the Student Cluster Competition for students to study and exercise as a part of the competition.
 - Some types of additional diagnostics could be:
   - Validation of the timers (time something with a known execution time, determine the precision and statistical variability of the timer).
-  - Confirm results for a manufactured solution.
-  - Test the analytics of the problem, e.g., generate a problem with known spectral properties and test its behavior.
+  - Confirmaation of results for a manufactured solution.
+  - Testing the analytics of the problem, (e.g., generate a problem with known spectral properties and test its behavior).
 
 ### Engaging the Student Cluster Competition
-We will engage students once again this year in the SC reproducibility initiative. We will continue the use of the Artifact Description Appendices in the Student Cluster Competition, similar as we did for SC16 and SC17. We also hope to include an effort related to the Artifact Evaluation Appendix.
+We will engage students in the SC reproducibility initiative again this year by continuing to use these appendices in the Student Cluster Competition.
 
 ### Resources
 
@@ -66,4 +56,14 @@ We will engage students once again this year in the SC reproducibility initiativ
 - [Artifact Description Appendix Template](https://collegeville.github.io/sc-reproducibility/ArtifactDescriptionAppendixTemplate.html)
 - [Artifact Evaluation Appendix Template](https://collegeville.github.io/sc-reproducibility/ArtifactEvaluationAppendixTemplate.html)
 
-For more information contact: Michael Heroux <maherou@sandia.gov>
+## Chair
+
+### SC18 Reproducibility Chair
+
+Michael A. Heroux, Sandia National Laboratories, St. John’s University
+
+## Contact
+
+Questions about SC’s reproducibility initiative?
+
+Contact us: Michael Heroux <maherou@sandia.gov>
