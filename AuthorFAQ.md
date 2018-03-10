@@ -62,6 +62,8 @@ A. No. There are numerous source hosting platforms that provide free or inexpens
 
 A. **ACM Artifacts Available badge:** An accepted paper with a fully completed artifact description appendix is eligible for the ACM Artifacts Available badge if the artifacts listed in the appendix are downloadable by anyone without restriction.
 
-**ACM Artifacts Evaluated badge:** An accepted paper with fully completed artifact description and artifact evaluation appendices is further eligible for the ACM Artifacts Evaluated badge if its artifacts are downloadable and positively evaluated by reviewers.
+**ACM Artifacts Evaluated -- Functional badge:** An accepted paper with fully completed artifact description and artifact evaluation appendices is further eligible for the ACM Artifacts Evaluated -- Functional badge if its artifacts are downloadable and positively evaluated by reviewers.
 
-**ACM Replicated Computational Results badge:** An accepted paper that contains an AD appendix will be considered for inclusion in the SC Student Cluster Competition (SCC), where student teams will attempt to replicate the results presented in the paper. Papers will be selected based on their suitability for use in the SCC. Papers selected for the SCC will receive the ACM Replicated Computational Results badge.
+**ACM Replicated Computational Results badge:** An accepted paper that contains an AD appendix will be considered for inclusion in the SC Student Cluster Competition (SCC), where student teams will attempt to replicate the results presented in the paper. Papers will be selected based on their suitability for use in the SCC. Papers selected for the SCC will receive the ACM Results Replicated badge.
+
+Please see the [ACM Artifact Reviewing and Badging page](https://www.acm.org/publications/policies/artifact-review-badging) for details.
