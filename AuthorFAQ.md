@@ -66,4 +66,4 @@ A. **ACM Artifacts Available badge:** An accepted paper with a fully completed a
 
 **ACM Replicated Computational Results badge:** An accepted paper that contains an AD appendix will be considered for inclusion in the SC Student Cluster Competition (SCC), where student teams will attempt to replicate the results presented in the paper. Papers will be selected based on their suitability for use in the SCC. Papers selected for the SCC will receive the ACM Results Replicated badge.
 
-Please see the [ACM Artifact Reviewing and Badging page](https://www.acm.org/publications/policies/artifact-review-badging) for details.
+Please see the [ACM Artifact Review and Badging page](https://www.acm.org/publications/policies/artifact-review-badging) for details.
