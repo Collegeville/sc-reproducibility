@@ -16,7 +16,7 @@ Use the following criteria for determining if a paper:
 
 | Criterion | Yes | No |
 |---|---|---|
-|Does the article have computational results? | **Stop. No badge or award. | **Stop. Eligible for award but not badge.**|
+|Does the article have computational results? | **Stop. No badge or award.** | **Stop. Eligible for award but not badge.**|
 
 #### Table 3 (With Computational Results)
 
