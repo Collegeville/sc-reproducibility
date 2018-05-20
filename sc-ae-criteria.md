@@ -1,6 +1,6 @@
 # Acceptance Criteria for SC Artifact Evaluation Appendix
 
-Use the following criteria for determining if a paper should receive an artifacts evaluated badge.
+Use the following criteria for determining if a paper should receive an ACM *Artifacts Evaluated* badge.
 
 | Criterion | Yes | No |
 |---|---|---|
