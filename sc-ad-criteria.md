@@ -24,7 +24,7 @@ Use the following criteria for determining if a paper:
 |---|---|---|
 |Does the article have computational results? | Continue. | **Stop. No badge or award.**|
 |Does the appendix effectively use its two pages[1] to address the [checklist items](ArtifactDescriptionAppendixTemplate.md)? | Continue. | **Stop. No badge or award.**|
-|Does the appendix provide links to a publicly-available[2] location where the software and data for the paper's computational experiments can be found? | **Stop. Eligible for award.  Badge earned. | **Stop. Eligible for award but not badge.**| 
+|Does the appendix provide links to a publicly-available[2] location where the software and data for the paper's computational experiments can be found? | **Stop. Eligible for award.  Badge earned.** | **Stop. Eligible for award but not badge.**| 
 
 [1] The determination of "effectively use" is the responsibility of the reviewer.  We rely on the expertise of the reviewer to assess if the author has put in a good faith effort to use the page space to address the required elements of this appendix.
 
