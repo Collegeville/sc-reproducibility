@@ -10,7 +10,7 @@ Use the following criteria for determining if a paper:
 |---|---|---|
 |Does the article have an artifact description appendix? | Continue. | **Stop. No badge or award.**|
 |Does the appendix have an abstract? | Continue | **Stop. No badge or award.**|
-|Does the abstract state “This paper contains no computational results."? | Go to Table 2. | Go to Table 3.| 
+|Does the abstract state "This paper contains no computational results."? | Go to Table 2. | Go to Table 3.| 
 
 #### Table 2 (No Computational Results)
 
