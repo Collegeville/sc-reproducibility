@@ -1,8 +1,8 @@
 # Acceptance Criteria for SC Artifact Description Appendix
 
 Use the following criteria for determining if a paper:
-- Is eligible for Best Paper or Best Student Paper awards.
-- Should receive an artifacts available badge.
+- Is eligible for Best Paper or Best Student Paper awards (**award**).
+- Should receive an artifacts available badge (**badge**).
 
 #### Table 1
 
