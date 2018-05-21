@@ -55,6 +55,8 @@ We will engage students in the SC reproducibility initiative again this year by 
 - [SC18 Reproducibility Initiative Reviewer FAQ](https://collegeville.github.io/sc-reproducibility/ReviewerFAQ.html)
 - [Artifact Description Appendix Template](https://collegeville.github.io/sc-reproducibility/ArtifactDescriptionAppendixTemplate.html)
 - [Artifact Evaluation Appendix Template](https://collegeville.github.io/sc-reproducibility/ArtifactEvaluationAppendixTemplate.html)
+- [Acceptance Criteria for SC Artifact Description Appendix](https://collegeville.github.io/sc-reproducibility/sc-ad-criteria.html)
+- [Acceptance Criteria for SC Artifact Evaluation Appendix](https://collegeville.github.io/sc-reproducibility/sc-ae-criteria.html)
 
 ## Chair
 
